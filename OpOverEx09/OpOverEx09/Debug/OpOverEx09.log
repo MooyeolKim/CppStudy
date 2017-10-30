@@ -1,0 +1,12 @@
+﻿빌드 시작: 2014-04-03 오후 6:03:43
+     1>2 노드의 "D:\학생방\김무열\김무열(C)\OpOverEx09\OpOverEx09\OpOverEx09.vcxproj" 프로젝트(ClCompile 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\학생방\김무열\김무열(c)\opoverex09\opoverex09\main.cpp(8): error C2440: '초기화 중' : 'void *'에서 'Point *'(으)로 변환할 수 없습니다.
+                 'void*'에서 'void'가 아닌 포인터로 변환하려면 명시적 캐스트가 필요합니다.
+     1>"D:\학생방\김무열\김무열(C)\OpOverEx09\OpOverEx09\OpOverEx09.vcxproj" 프로젝트를 빌드했습니다(ClCompile 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.29

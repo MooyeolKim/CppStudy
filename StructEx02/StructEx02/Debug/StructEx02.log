@@ -1,0 +1,13 @@
+﻿빌드 시작: 2014-03-19 오후 3:11:44
+     1>2 노드의 "D:\학생방\김무열\김무열(C)\StructEx02\StructEx02\StructEx02.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\StructEx02.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt struct04.cpp
+         struct04.cpp
+     1>d:\학생방\김무열\김무열(c)\structex02\structex02\struct04.cpp(28): error C2106: '=' : 왼쪽 피연산자는 l-value이어야 합니다.
+     1>"D:\학생방\김무열\김무열(C)\StructEx02\StructEx02\StructEx02.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.10

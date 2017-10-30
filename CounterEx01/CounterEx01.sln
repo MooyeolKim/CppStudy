@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CounterEx01", "CounterEx01\CounterEx01.vcxproj", "{10A54EA8-79CC-4170-A797-DCE2C929CF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A54EA8-79CC-4170-A797-DCE2C929CF28}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10A54EA8-79CC-4170-A797-DCE2C929CF28}.Debug|Win32.Build.0 = Debug|Win32
+		{10A54EA8-79CC-4170-A797-DCE2C929CF28}.Release|Win32.ActiveCfg = Release|Win32
+		{10A54EA8-79CC-4170-A797-DCE2C929CF28}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

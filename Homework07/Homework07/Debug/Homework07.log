@@ -1,0 +1,11 @@
+﻿빌드 시작: 2014-03-17 오후 2:00:25
+     1>2 노드의 "D:\학생방\김무열\김무열(C)\Homework07\Homework07\Homework07.vcxproj" 프로젝트(ClCompile 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HW01_1.cpp
+         HW01_1.cpp
+     1>d:\학생방\김무열\김무열(c)\homework07\homework07\hw01_1.cpp(7): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>"D:\학생방\김무열\김무열(C)\Homework07\Homework07\Homework07.vcxproj" 프로젝트를 빌드했습니다(ClCompile 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.09
